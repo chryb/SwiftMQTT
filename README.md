@@ -2,7 +2,7 @@
 
 MQTT Client
 
-[![Build Status](https://travis-ci.org/aciidb0mb3r/SwiftMQTT.svg)](https://travis-ci.org/aciidb0mb3r/SwiftMQTT)
+[![Build Status](https://travis-ci.org/aciidb0mb3r/SwiftMQTT.svg)](https://travis-ci.org/chryb/SwiftMQTT)
 [![Version](https://img.shields.io/cocoapods/v/SwiftMQTT.svg?style=flat)](http://cocoapods.org/pods/SwiftMQTT)
 [![License](https://img.shields.io/cocoapods/l/SwiftMQTT.svg?style=flat)](http://cocoapods.org/pods/SwiftMQTT)
 
@@ -112,14 +112,14 @@ end
 ### Carthage
 
 ```
-github "aciidb0mb3r/SwiftMQTT"
+github "chryb/SwiftMQTT"
 ```
 
 ### Swift Package Manager
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/aciidb0mb3r/SwiftMQTT.git", from: "3.0.0")
+    .package(url: "https://github.com/chryb/SwiftMQTT.git", from: "3.0.0")
 ]
 ```
 ## License
